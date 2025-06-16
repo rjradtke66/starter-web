@@ -2,7 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 
+##How to Contribute
 
+Please fork this repo.
 
 ##Introduction
 
